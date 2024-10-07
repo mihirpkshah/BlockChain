@@ -113,5 +113,13 @@ The project consists of three separate applications, each responsible for differ
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-This project is inspired by the concepts of decentralized finance and blockchain technology, with a focus on providing a simple, educational implementation in C.
 The project was developed by [Mihir Shah](https://www.github.com/mihirpkshah), [Ved Mundhada]() and [Pratham Mundada]() as part of a DSA mini project in Semester 2, Second Year at COEP University.
+
+This project is inspired by the concepts of decentralized finance and blockchain technology, with a focus on providing a simple, educational implementation in C.
+
+Videos Watched for references:
+
+[But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+
+[How secure is 256 bit security? by 3Blue1Brown](https://www.youtube.com/watch?v=S9JGmA5_unY)
+
