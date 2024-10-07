@@ -111,7 +111,6 @@ Two types of Broadcasts:
 - **Threading:** `pthread.h` to handle concurrent mining and network communication.
 - **Digital Signatures:** Use `libcrypto` for signing transactions.
 
-This should give you a strong starting point to build a decentralised blockchain infrastructure in C. What part of the project would you like to dive into further?
 
 ## Mihir - Implementation Plan
 
@@ -179,5 +178,3 @@ Your implementation plan is clear and well-structured. Splitting the tasks acros
 
 - **App Monitoring and Logging:**
     - Add a basic logging mechanism to track key actions (transactions, proof of work attempts, block additions) in real-time for debugging and monitoring the blockchain's state.
-
-With these suggestions, your architecture should scale well and be more robust for real-world testing. Would you like to discuss any specific part of the implementation in more depth?
