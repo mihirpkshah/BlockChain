@@ -113,7 +113,7 @@ The project consists of three separate applications, each responsible for differ
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-The project was developed by [Mihir Shah](https://www.github.com/mihirpkshah), [Ved Mundhada]() and [Pratham Mundada](https://www.github.com/Pratham23147) as part of a DSA mini project in Semester 2, Second Year at COEP University.
+The project was developed by [Mihir Shah](https://www.github.com/mihirpkshah), [Ved Mundhada](https://www.github.com/SomeDudeInHell) and [Pratham Mundada](https://www.github.com/Pratham23147) as part of a DSA mini project in Semester 2, Second Year at COEP University.
 
 This project is inspired by the concepts of decentralized finance and blockchain technology, with a focus on providing a simple, educational implementation in C.
 
